@@ -512,13 +512,13 @@ a.button.button--flex.button--white {
 }
 
 .skills__html {
-  width: 80%;
+  width: 95%;
 }
 .skills__css {
-  width: 70%;
+  width: 100%;
 }
 .skills__js {
-  width: 50%;
+  width: 75%;
 }
 
 .skills__close .skills__list {
