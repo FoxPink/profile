@@ -521,6 +521,15 @@ a.button.button--flex.button--white {
   width: 75%;
 }
 
+.skills__cook {
+  width: 70%;
+}
+.skills__home,
+.skills__listen {
+  width: 100%;
+}
+
+
 .skills__close .skills__list {
   height: 0;
   overflow: hidden;
